@@ -1,4 +1,3 @@
-a
 # Hi everyone 👋🌵
 
 > I'm Bryan garcia, a frontend web developer with some backend skills. 

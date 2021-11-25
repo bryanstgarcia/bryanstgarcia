@@ -2,7 +2,7 @@
 > I'm Bryan garcia, a frontend web developer with some backend skills. 
 
 - Open to work
-- 👨‍💻 I'm currently working as a Teacher Assitant at <a href="https://www.linkedin.com/school/4geeksacademy/mycompany/">4Geeks Academy</a> 
+- 👨‍💻 I'm currently working as a Teacher Assistant at <a href="https://www.linkedin.com/school/4geeksacademy/mycompany/">4Geeks Academy</a> 
 - If you want to contact me: <a href="https://www.linkedin.com/in/bryan-garcia-fullstack/"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
 - 📍 Based on Lima, Perú. 
  

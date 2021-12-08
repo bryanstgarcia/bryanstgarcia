@@ -1,5 +1,5 @@
 # Hi everyone 👋🌵
-> I'm Bryan garcia, a frontend web developer with some backend skills. 
+> I'm Bryan Garcia, a Fullstack web developer with a mainly in love for Frontend development.
 
 - Open to work
 - 👨‍💻 I'm currently working as a Teacher Assistant at <a href="https://www.linkedin.com/school/4geeksacademy/mycompany/">4Geeks Academy</a> 

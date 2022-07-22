@@ -29,8 +29,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |  <img src="./assets/img/figma.png" height="20" alt="Figma"/> | <img src="./assets/img/ai-logo.png" width="20" alt="Adobe Illustrator"/>  |  <img src="./assets/img/vscode-logo.png" width="25" alt="VS Code"/>  |  <img src="./assets/img/postman-logo.png" height="20" alt="Postman"/>  |  <img src="./assets/img/git.png" height="20" alt="GIT"/>  |  <img src="./assets/img/scrum-logo.png" width="20" alt="SCRUM"/>  |
 
-<p align="center" >
+<a align="center" href="https://bryanstgarcia.com/" >
     <img src="./assets/img/bg-logo.png" width="100" />
-</p>
+</a>
 
 

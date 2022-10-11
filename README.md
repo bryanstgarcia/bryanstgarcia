@@ -1,9 +1,10 @@
 # Hi everyone 👋🌵
-> I'm Bryan Garcia, a Fullstack web developer with a mainly in love for Frontend development.
+> I'm Bryan Garcia and I'm a Full-stack web developer.
 
 - Open to work
-- 👨‍💻 I'm currently working as a Teacher Assistant at <a href="https://www.linkedin.com/school/4geeksacademy/mycompany/">4Geeks Academy</a> 
-- If you want to contact me: <a href="https://www.linkedin.com/in/bryan-garcia-fullstack/"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
+- 👨‍💻 I'm currently Teaching at <a href="https://4geeksacademy.com/" target="_blank">4Geeks Academy</a> 
+- 👨‍💻 I'm a full-stack at <a href="https://www.ariadnacommunicationsgroup.com/" target="_blank">Ariadna Communications Group</a> 
+- If you want to contact me: <a href="https://www.linkedin.com/in/bryanstgarcia/"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
 - 📍 Based on Lima, Perú. 
  
 ### ***I love challenges, so if you have one, don't doubt to contact me ❤.***

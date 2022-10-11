@@ -6,7 +6,7 @@
 - If you want to contact me: <a href="https://www.linkedin.com/in/bryan-garcia-fullstack/"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
 - 📍 Based on Lima, Perú. 
  
-### ***I love the challenges, so if you have one, don't doubt to contact me ❤.***
+### ***I love challenges, so if you have one, don't doubt to contact me ❤.***
 
 ## Skills and Tools ⚙🔨
 <hr>

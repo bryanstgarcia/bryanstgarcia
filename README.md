@@ -3,8 +3,8 @@
 
 - Open to work
 - 👨‍💻 I'm currently Teaching at <a href="https://4geeksacademy.com/" target="_blank">4Geeks Academy</a> 
-- 👨‍💻 I'm a full-stack at <a href="https://www.ariadnacommunicationsgroup.com/" target="_blank">Ariadna Communications Group</a> 
-- If you want to contact me: <a href="https://www.linkedin.com/in/bryanstgarcia/"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
+- 👨‍💻 I'm a full-stack at <a href="https://www.mergeto.co/" target="_blank">Merge</a> 
+- If you want to contact me: <a href="[https://www.linkedin.com/in/bryanstgarcia/](https://www.mergeto.co/)"><img src="./assets/img/linkedin.png" width="15"> Linkedin</a>
 - 📍 Based on Lima, Perú. 
  
 ### ***I love challenges, so if you have one, don't doubt to contact me ❤.***
